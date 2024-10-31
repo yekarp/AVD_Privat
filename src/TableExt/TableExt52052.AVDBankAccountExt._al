@@ -1,0 +1,17 @@
+tableextension 52052 "AVD Bank Account Ext" extends "Bank Account"
+{
+    fields
+    {
+        // Add changes to table fields here
+        field(52050; "AVD Enable Privat API"; Boolean)
+        {
+            Caption = 'Enable Privat API';
+        }
+    }
+
+    keys
+    {
+        // Add changes to keys here
+        key(PrivatAPI; "AVD Enable Privat API") { }
+    }
+}

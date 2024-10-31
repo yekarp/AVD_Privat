@@ -1,0 +1,16 @@
+pageextension 52052 "AVD Bank Account Card Ext" extends "Bank Account Card"
+{
+    layout
+    {
+        // Add changes to page layout here
+        addlast(General)
+        {
+
+            field("AVD Enable Privat API"; Rec."AVD Enable Privat API")
+            {
+                ApplicationArea = All;
+                ToolTip = 'Specifies the value of the Enable Privat API field.';
+            }
+        }
+    }
+}

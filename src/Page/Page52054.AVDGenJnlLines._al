@@ -1,0 +1,49 @@
+page 52054 "AVD Gen.Jnl.Lines"
+{
+    Caption = 'AVD Gen Journal Lines';
+    ApplicationArea = All;
+    SourceTable = "Gen. Journal Line";
+    SourceTableTemporary = true;
+
+    layout
+    {
+        area(Content)
+        {
+            repeater(Content1)
+            {
+
+                field("Journal Template Name"; Rec."Journal Template Name")
+                {
+                    ToolTip = 'Specifies the value of the Journal Template Name field.', Comment = '%';
+                }
+                field("Journal Batch Name"; Rec."Journal Batch Name")
+                {
+                    ToolTip = 'Specifies the number of the general ledger, customer, vendor, or bank account to which a balancing entry will posted, such as a cash account for cash purchases.';
+                }
+                field("Line No."; Rec."Line No.")
+                {
+                    ToolTip = 'Specifies the value of the Line No. field.', Comment = '%';
+                }
+            }
+        }
+    }
+
+    actions
+    {
+        area(Processing)
+        {
+            action(ActionName)
+            {
+                ApplicationArea = All;
+
+                trigger OnAction()
+                begin
+
+                end;
+            }
+        }
+    }
+
+    var
+        myInt: Integer;
+}

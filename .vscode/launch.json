@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dev",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "https://dev-bcs.avdtrade.local/BC24DEV1",
+            "serverInstance": "BC24DEV1",
+            "authentication": "UserPassword",
+            "usePublicURLFromServer": false,
+            "port": 7349,
+            "startupObjectId": 52052,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync",
+            "startupCompany": "AVD CONF"
+        }
+    ]
+}

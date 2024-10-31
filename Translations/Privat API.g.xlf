@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Privat API">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1754387849 - NamedType 2965998049" size-unit="char" translate="yes" xml:space="preserve">
+          <source>json</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - NamedType FileExtension</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 1112663522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field Bank Acc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 2166181827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 1002783895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field Error Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 401751910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field Last Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 1969178390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Error Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field No. Error Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 2038952854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field No. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1754387849 - Field 1660464007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Without Duplicate No. Error Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Log - Field Without Dupl. No. Error Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 817783429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field API Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 652819368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Client ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 640746029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client ID Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Client ID Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 1303376715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Content Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 2378981830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duplicate Posted Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Duplicate Posted Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 1337243520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Global Dimension 2 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Global Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 3391005293 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Limit Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Limit Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 3663083959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Page Parameter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Next Page Parameter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 2964033463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Org. form F1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Org. form F1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 582156018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Org. form F2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Org. form F2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 2414142755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Org. form LLC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Org. form LLC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 1708341378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Post Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 1700095616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preview Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Preview Check - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 2104648824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Primary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 1507696154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Privat Registration No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Privat Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 201695559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RegEx Pattern</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field RegEx Pattern - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 1426620987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Dialog No. Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Show Dialog No. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 1410640840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Token Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954194360 - Field 4042084261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Dialog No. Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup - Field Update Dialog No. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 1112663522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Bank Acc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 3316905155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Jnl. for Analisys</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Bank Jnl. for Analisys - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 251061329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Jnl. for Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Bank Jnl. for Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 3981962473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Jnl. for Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Bank Jnl. for Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 3890886300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Jnl. Template</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Bank Jnl. Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 3014973520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Organization Form</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Owner Organization Form - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3605787006 - Field 4146460525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat API Setup Line - Field Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2453672397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVD Privat Dimension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat Dimension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2453672397 - Field 1112663522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat Dimension - Field Bank Acc. No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2453672397 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat Dimension - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2453672397 - Field 247383114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Income Dimension Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat Dimension - Field Income Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2453672397 - Field 3709126180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Income Dimension Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat Dimension - Field Income Dimension Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2453672397 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVD Privat Dimension - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 4069188089" size-unit="char" translate="yes" xml:space="preserve">
+          <source>already exist!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType AlreadyExistLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 1367465821" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose JSON File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType ChooseJSONFile</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 3720586855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can`t Find Assined Payment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errCantFindAssinedPayment</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 4181777483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can`t Find Customer By Login ID %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errCantFindCustomerByLoginID</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 3316798495" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can`t Find Customer By %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errCantFindCustomerByRegistrationNumber</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 1011504155" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can`t Find EDRPOU in %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errCantFindEDRPOU</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 2124079892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can`t Find Login ID in Payment Assignment %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errCantFindLoginIDInPaymentAssignment</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 2238946487" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Can`t Find Vendor By %1 %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errCantFindVendorByRegistrationNumber</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 950655481" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type %1 Document No. %2 Posting Date %3 already exist!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errDocumentAlreadyExist</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 1039754714" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incorrect payment for ownership %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errIncorrectPaymentForOwnership</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 2875332743" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Document Type %1 Document No. %2 Posting Date %3 already exist!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType errPostedDocumentFound</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 842810174" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType lblDone</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 662311899" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Undefined Journal Type %1!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType lblUndefinedJournalType</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template %1 Lines creating...\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating temporary journal lines... #1############################\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating journal lines...           #2############################\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4286044623 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 from %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat API Mgt - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2781873775 - NamedType 2624360277" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVD Privat Log Processor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVD Privat Job Queue - NamedType lblLogProcessDescription</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVD API Setup Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 228990716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dialog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 2378981830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Duplicate Posted Entry field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Duplicate Posted Entry - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1708341378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Post Line field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Post Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1700095616 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Preview Check field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Preview Check - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1426620987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show Dialog No. Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Show Dialog No. Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 4042084261 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Update Dialog No. Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Update Dialog No. Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 817783429 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the API Url field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control API Url - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 652819368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Client ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Client ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 640746029 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Client ID Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Client ID Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1303376715 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Content Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Content Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 3391005293 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Limit Records field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Limit Records - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 3663083959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Next Page Parameter field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Next Page Parameter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1507696154 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Privat Registration No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Privat Registration No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1410640840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Token Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Token Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1166738258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control GeneralJnl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 1337243520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Global Dimension 2 Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Global Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 2964033463 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Org. form F1 field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Org. form F1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 582156018 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Org. form F2 field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Org. form F2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 2414142755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Org. form LLC field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control Org. form LLC - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 201695559 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the RegEx Pattern field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control RegEx Pattern - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 3245931768 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Income Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control partPrivatDimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2247879572 - Control 3553689399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD API Setup Card - Control partSetupLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1717141999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVD Manual Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Manual Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1717141999 - NamedType 2368090530" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date Must Be Less Or Equal Ending Date!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Manual Date Filter - NamedType StartingDateMustBeMoreOrEqualEndingDateErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1717141999 - Control 1675823882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Account No. Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Manual Date Filter - Control BankAccNoFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1717141999 - Control 3592094765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Manual Date Filter - Control EndingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1717141999 - Control 543275552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Manual Date Filter - Control StartingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVD Privat API Log Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - NamedType 2744073413" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Is Done!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - NamedType lblProcessIsDone</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 1090351696 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Active field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control Active - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 1112663522 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Account No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control Bank Acc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 3997336476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Company Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control Company Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 3641927271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 401751910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Last Error field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control Last Error - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 1969178390 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Error Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control No. Error Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 2038952854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control No. Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 577209412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedAt field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control SystemCreatedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 4000648066 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedBy field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control SystemCreatedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 1660464007 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Without Duplicate No. Error Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control Without Dupl. No. Error Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 2352309466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control groupContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Control 3570026376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Errors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Control groupErrors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Action 3150011536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download Json</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Action DownloadJSON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Action 2939689029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert General Jornal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Action InsertGenJnl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Action 4264113721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Privat API Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Action PrivatAPISetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1328632405 - Action 346236877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Json</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log Card - Action UploadJSON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVD Privat API Log List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - NamedType 2744073413" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Is Done!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - NamedType lblProcessIsDone</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 1090351696 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Active field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control Active - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 1112663522 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Account No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control Bank Acc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 3997336476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Company Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control Company Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 3641927271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 1969178390 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Error Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control No. Error Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 2038952854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control No. Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 577209412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedAt field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control SystemCreatedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 4000648066 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedBy field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control SystemCreatedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Control 1660464007 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Without Duplicate No. Error Lines field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Control Without Dupl. No. Error Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 1905791958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Job Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action CreateJobQueue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 3150011536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download Json</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action DownloadJSON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 2939689029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert General Jornal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action InsertGenJnl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 368103594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manual Date Filter Privat API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action ManualDateFilterPrivatAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 3153969286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manual Privat API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action ManualPrivatAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 4264113721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Privat API Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action PrivatAPISetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 346236877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Json</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action UploadJSON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 2264048100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>JSON</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action JSON - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1334323327 - Action 1603837596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Privat API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat API Log List - Action PrivatAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3056949380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVD Privat Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3056949380 - Control 1112663522 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Account No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat Dimensions - Control Bank Acc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3056949380 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Blocked field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat Dimensions - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3056949380 - Control 247383114 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Income Dimension Code field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat Dimensions - Control Income Dimension Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3056949380 - Control 3709126180 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Income Dimension Value field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat Dimensions - Control Income Dimension Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3056949380 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Privat Dimensions - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 1112663522 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Account No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Bank Acc. No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3316905155 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Jnl. for Analisys field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Bank Jnl. for Analisys - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 251061329 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Jnl. for Customer field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Bank Jnl. for Customer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3981962473 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Jnl. for Vendor field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Bank Jnl. for Vendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3890886300 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Bank Jnl. Template field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Bank Jnl. Template - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Blocked field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3014973520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Owner Organization Form field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control Owner Organization Form - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3602011818 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Token field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control TokenMasked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3505784779 - Control 3602011818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVD Setup Lines - Control TokenMasked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 283697513 - Control 272109186 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 187986758">
+          <source>Specifies the value of the Error Text field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVD Bank Paym. Jnl Ext - Control AVD Error Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1765835204 - Field 272109186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1806786327">
+          <source>Error Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVD Gen Jnl Line Ext - Field AVD Error Text - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

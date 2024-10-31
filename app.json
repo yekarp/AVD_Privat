@@ -1,0 +1,59 @@
+{
+  "id": "bb33d01a-46a2-4b6b-acb3-c95ba9b46a7f",
+  "name": "Privat API",
+  "publisher": "AVD",
+  "version": "24.4.240628.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "42310bec-4059-4cb1-86c3-317234ce6303",
+      "name": "Base",
+      "version": "1.0.0.0",
+      "publisher": "AVD"
+    },
+    {
+      "id": "29074f42-3b2f-47d0-91d3-6b5152605fa2",
+      "name": "SMART Core",
+      "version": "1.0.0.0",
+      "publisher": "SMART business LLC"
+    },
+    {
+      "id": "433841b1-dd3b-4a42-a0f4-e10fa5b93158",
+      "name": "SMART VAT Localization for Ukraine",
+      "version": "1.0.0.0",
+      "publisher": "SMART business LLC"
+    },
+    {
+      "id": "c9f2354f-40b4-4694-a2f5-a693606b9873",
+      "name": "SMART Operational Reporting",
+      "version": "1.0.0.0",
+      "publisher": "SMART business LLC"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 52050,
+      "to": 52199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "target": "OnPrem",
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
