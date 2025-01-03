@@ -1,4 +1,4 @@
-page 52051 "AVD API Setup Card"
+page 52151 "AVD API Setup Card"
 {
     Caption = 'AVD API Setup Card';
     PageType = Card;

@@ -78,19 +78,13 @@ codeunit 52051 "AVD Privat Job Queue"
                 AVDPrivatAPIMgt.GenJnlLineOnInsert(AVDPrivatAPILog, false);
                 AVDPrivatAPILog.Active := false;
                 AVDPrivatAPILog.Modify();
+                Commit();
 
                 GetAVDPrivatAPISetup('');
                 if AVDPrivatAPISetup."Post Line" then
                     AVDPrivatAPIMgt.GenJnlLineOnPost(AVDPrivatAPILog."Bank Acc. No.");
 
-            // AVDPrivatAPILogMod.Get(AVDPrivatAPILog.ID);
-            // AVDPrivatAPILogMod.Active := false;
-            // AVDPrivatAPILogMod.Modify();
             until AVDPrivatAPILog.Next() = 0;
-
-        // GetAVDPrivatAPISetup('');
-        // if AVDPrivatAPISetup."Post Line" then
-        //     AVDPrivatAPIMgt.GenJnlLineOnPost();
     end;
 
     local procedure GetAVDPrivatAPISetup(xClientID: Text[50])

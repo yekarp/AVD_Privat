@@ -1,4 +1,4 @@
-page 52053 "AVD Privat API Log Card"
+page 52153 "AVD Privat API Log Card"
 {
     Caption = 'AVD Privat API Log Card';
     PageType = Card;

@@ -1,4 +1,4 @@
-page 52055 "AVD Manual Date Filter"
+page 52155 "AVD Manual Date Filter"
 {
     Caption = 'AVD Manual Date Filter';
     PageType = StandardDialog;

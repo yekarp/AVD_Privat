@@ -1,4 +1,4 @@
-page 52057 "AVD Setup Lines"
+page 52157 "AVD Setup Lines"
 {
     PageType = ListPart;
     ApplicationArea = All;

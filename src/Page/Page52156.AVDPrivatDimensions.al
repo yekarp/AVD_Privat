@@ -1,4 +1,4 @@
-page 52056 "AVD Privat Dimensions"
+page 52156 "AVD Privat Dimensions"
 {
     Caption = 'AVD Privat Dimensions';
     PageType = ListPart;

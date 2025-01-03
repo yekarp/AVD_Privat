@@ -2,7 +2,7 @@
   "id": "bb33d01a-46a2-4b6b-acb3-c95ba9b46a7f",
   "name": "Privat API",
   "publisher": "AVD",
-  "version": "24.4.240628.3",
+  "version": "25.0.250103.4",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -38,7 +38,7 @@
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "23.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 52050,
@@ -51,7 +51,7 @@
     "includeSourceInSymbolFile": true
   },
   "target": "OnPrem",
-  "runtime": "12.0",
+  "runtime": "13.0",
   "features": [
     "NoImplicitWith",
     "TranslationFile"

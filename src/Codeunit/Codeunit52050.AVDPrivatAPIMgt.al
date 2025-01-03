@@ -49,8 +49,16 @@ codeunit 52050 "AVD Privat API Mgt"
                     GenJnlLine."AVD Error Text" := ErrorText;
                     GenJnlLine.Modify();
                 end;
+
                 Commit();
             until GenJnlLine.Next() = 0;
+
+        GenJnlLine.Reset();
+        GenJnlLine.SetRange("Journal Template Name", AVDPrivatAPISetupLine."Bank Jnl. Template");
+        GenJnlLine.SetRange("Journal Batch Name", AVDPrivatAPISetupLine."Bank Jnl. for Customer");
+        GenJnlLine.SetFilter("SMA Payment Order Status", '<>%1', Enum::"SMA Payment Order Status"::"Error");
+        GenJnlLine.DeleteAll(true);
+        Commit();
     end;
 
     [TryFunction]
@@ -301,8 +309,8 @@ codeunit 52050 "AVD Privat API Mgt"
             tempGenJnlLine.Validate("Posting Date", ConvertTxt2Date(CodeText));
 
         if AVDPrivatAPISetup."Duplicate Posted Entry"
-        and (tempGenJnlLine."Document No." <> '')
-        and (tempGenJnlLine."Posting Date" <> 0D) then
+                and (tempGenJnlLine."Document No." <> '')
+                and (tempGenJnlLine."Posting Date" <> 0D) then
             if not CheckDuplicatePostedDocumentNoPostingDate(tempGenJnlLine) then begin// пошук облікованого документу
                 xLastError := GetLastErrorText();
                 exit(false);
